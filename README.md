@@ -1,4 +1,3 @@
-html
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">🚀 Software Engineer | AI Systems Developer | Full-Stack Developer</h3>
 <h3 align="center">Building AI-Powered Products & Scalable Software Solutions</h3>
